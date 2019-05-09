@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigaetijoc.gvisoc.com/sitemap.xml
